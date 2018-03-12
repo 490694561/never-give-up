@@ -51,7 +51,7 @@ void showstack(Qstack *in)
 	p = NULL;
 }
 
-int main()
+int main1()
 {
 	int choose, datenum, popdate;
 	Qstack *in;
